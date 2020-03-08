@@ -21,63 +21,72 @@
         "image": "https://imgur.com/TPji24F.jpg",
         "name": "Cúc",
         "price": "50000",
-        "species": 1
+        "species": 1,
+        "quantity": 0
       },
       {
         "id": 2,
         "image": "https://imgur.com/iRldAlv.jpg",
         "name": "Mai",
         "price": "100000",
-        "species": 2
+        "species": 2,
+        "quantity": 0
       },
       {
         "id": 3,
         "image": "https://imgur.com/C5ZWHFB.jpg",
         "name": "Sen",
         "price": "150000",
-        "species": 3
+        "species": 3,
+        "quantity": 0
       },
       {
         "id": 4,
         "image": "https://imgur.com/TPji24F.jpg",
         "name": "Cúc",
         "price": "50000",
-        "species": 1
+        "species": 1,
+        "quantity": 0
       },
       {
         "id": 5,
         "image": "https://imgur.com/iRldAlv.jpg",
         "name": "Mai",
         "price": "100000",
-        "species": 2
+        "species": 2,
+        "quantity": 0
       },
       {
         "id": 6,
         "image": "https://imgur.com/C5ZWHFB.jpg",
         "name": "Sen",
         "price": "150000",
-        "species": 3
+        "species": 3,
+        "quantity": 0
       },
       {
         "id": 7,
         "image": "https://imgur.com/TPji24F.jpg",
         "name": "Cúc",
         "price": "50000",
-        "species": 1
+        "species": 1,
+        "quantity": 0
       },
       {
         "id": 8,
         "image": "https://imgur.com/iRldAlv.jpg",
         "name": "Mai",
         "price": "100000",
-        "species": 2
+        "species": 2,
+        "quantity": 0
       },
       {
         "id": 9,
         "image": "https://imgur.com/C5ZWHFB.jpg",
         "name": "Sen",
         "price": "150000",
-        "species": 3
+        "species": 3,
+        "quantity": 0
       }
     ]
 }
