@@ -20,7 +20,7 @@
         "id": 1,
         "image": "https://imgur.com/TPji24F.jpg",
         "name": "Cúc",
-        "price": "50000",
+        "price": 50000,
         "species": 1,
         "quantity": 0
       },
